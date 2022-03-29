@@ -256,8 +256,8 @@ body {
 }
 
 .links a:nth-child(2) {
-    background: #ffffff;
-    color: #000000;
+    background: #000000;
+    color: #ffffff;
 }
 
 .links a:nth-child(2):before {
@@ -270,7 +270,7 @@ body {
 }
 
 .links a:nth-child(2):hover:after {
-    color: #ffffff;
+    color: #000000;
 }
 
 .social {
